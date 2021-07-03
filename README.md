@@ -17,8 +17,9 @@ For the conveninet and clear look, all the past hours will be turned into light 
 
 ## Links 
 
-* Link for the deployed application [WeatherDashboard](https://rajesh295-dev.github.io/Weather-Dashboard/)
-* Link for the Github repository [Host by Github](https://github.com/Rajesh295-dev/Weather-Dashboard/settings/pages)
+* Link for the deployed application [Workday-Scheduler](https://rajesh295-dev.github.io/Workday-Scheduler/)
+* Link for the Github repository [Host by Github](https://github.com/Rajesh295-dev/Workday-Scheduler/settings/pages)
+
 
 ## Screenshots:
 Before saving any events.
