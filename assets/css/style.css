@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -71,6 +71,7 @@ textarea {
 }
 
 
+/* additional media query will make sure flex for smaller devices*/
 @media screen and (max-width: 768px), screen and (max-width: 575px) {
   .row {
     height: auto;
